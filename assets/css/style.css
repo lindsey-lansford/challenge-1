@@ -75,7 +75,7 @@ p {
     margin-left: 20px;
 }
 
-/* combined all of the div classes into 1 article selector */
+/* combined all of the div classes into 1 main article chain selector */
 main article {
     margin-bottom: 20px;
     padding: 50px;
@@ -149,7 +149,7 @@ aside {
     background-color: #2589bd;
 }
 
-/*combined all of the div classes into 1 details selector  */
+/*combined all of the div classes into 1 aside article chain selector  */
 aside article {
     margin-bottom: 32px;
     color: #ffffff;
